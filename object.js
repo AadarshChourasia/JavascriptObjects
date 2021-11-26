@@ -9,7 +9,7 @@ function person(FirstName, LastName, OfficeAddress) {
    var person3 = new person("Mukesh", "Yadav", "Kolkata");
 
    console.log("The firstnames are : " +person1.FirstName + " ," + person2.FirstName + " ,"+ person3.FirstName);
-   console.log("The second names are: " + person1.LastName + " ," + person2.LastName)+  " ,"+ person3.LastName);
+   console.log("The second names are: " + person1.LastName + " ," + person2.LastName+  " ,"+ person3.LastName);
    console.log("The offices OfficeAddress are :" + person1.OfficeAddress + " ," + person2.OfficeAddress + " ," +person3.OfficeAddress);
 
    
